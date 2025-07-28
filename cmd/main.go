@@ -1,7 +1,7 @@
 package main
 
 import (
-	"docryze-backend/internal/config"
+	"docryze-backend/app/config"
 )
 
 func main() {
