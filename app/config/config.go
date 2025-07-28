@@ -7,7 +7,6 @@ type Config struct {
 		Name string `yaml:"name"`
 	} `yaml:"application"`
 	Server struct {
-		Addr string `yaml:"addr"`
 		Port string `yaml:"port"`
 	} `yaml:"server"`
 	Database struct {
